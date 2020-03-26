@@ -2,8 +2,9 @@ package Practice;
 
 public class P1 {
     public static void main(String[] args) {
-
+        String name="kks";
     }
+
     public boolean catDog(String str) {
         int cat=0;
         int dog=0;
@@ -22,3 +23,4 @@ public class P1 {
         }
 }
 
+//rukha
